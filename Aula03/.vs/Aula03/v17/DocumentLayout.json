@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|c:\\users\\aluno\\source\\repos\\aula03\\aula03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|solutionrelative:aula03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|c:\\users\\aluno\\source\\repos\\aula03\\aula03\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|solutionrelative:aula03\\automovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|c:\\users\\aluno\\source\\repos\\aula03\\aula03\\etanol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|solutionrelative:aula03\\etanol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|c:\\users\\aluno\\source\\repos\\aula03\\aula03\\gasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|solutionrelative:aula03\\gasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|c:\\users\\aluno\\source\\repos\\aula03\\aula03\\flex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FDD87A-FEDE-4770-BB0F-9514BEF8AED2}|Aula03\\Aula03.csproj|solutionrelative:aula03\\flex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flex.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Flex.cs",
+              "RelativeDocumentMoniker": "Aula03\\Flex.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Flex.cs",
+              "RelativeToolTip": "Aula03\\Flex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:14:43.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gasolina.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Gasolina.cs",
+              "RelativeDocumentMoniker": "Aula03\\Gasolina.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Gasolina.cs",
+              "RelativeToolTip": "Aula03\\Gasolina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:14:36.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Etanol.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Etanol.cs",
+              "RelativeDocumentMoniker": "Aula03\\Etanol.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Etanol.cs",
+              "RelativeToolTip": "Aula03\\Etanol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:14:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automovel.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Automovel.cs",
+              "RelativeDocumentMoniker": "Aula03\\Automovel.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Automovel.cs",
+              "RelativeToolTip": "Aula03\\Automovel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:10:10.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Program.cs",
+              "RelativeDocumentMoniker": "Aula03\\Program.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula03\\Aula03\\Program.cs",
+              "RelativeToolTip": "Aula03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:05:44.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
