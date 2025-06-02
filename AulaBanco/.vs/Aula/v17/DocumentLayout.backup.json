@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALUNO\\source\\repos\\Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|c:\\users\\aluno\\source\\repos\\aula\\aula\\view\\formlivrosalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|solutionrelative:aula\\view\\formlivrosalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|c:\\users\\aluno\\source\\repos\\aula\\aula\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|solutionrelative:aula\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|c:\\users\\aluno\\source\\repos\\aula\\aula\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|solutionrelative:aula\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|c:\\users\\aluno\\source\\repos\\aula\\aula\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|solutionrelative:aula\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|c:\\users\\aluno\\source\\repos\\aula\\aula\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C47C914E-1F8A-4C50-80AE-33D64E3993F5}|Aula\\Aula.csproj|solutionrelative:aula\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\Model\\Livro.cs",
+              "RelativeDocumentMoniker": "Aula\\Model\\Livro.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\Model\\Livro.cs",
+              "RelativeToolTip": "Aula\\Model\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:41:18.029Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLivroSalvar.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\View\\FormLivroSalvar.cs",
+              "RelativeDocumentMoniker": "Aula\\View\\FormLivroSalvar.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\View\\FormLivroSalvar.cs",
+              "RelativeToolTip": "Aula\\View\\FormLivroSalvar.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vzUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:22:48.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\Controller\\LivroController.cs",
+              "RelativeDocumentMoniker": "Aula\\Controller\\LivroController.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\Controller\\LivroController.cs",
+              "RelativeToolTip": "Aula\\Controller\\LivroController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:26:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLivroPesquisar.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\View\\FormLivroPesquisar.cs",
+              "RelativeDocumentMoniker": "Aula\\View\\FormLivroPesquisar.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\View\\FormLivroPesquisar.cs",
+              "RelativeToolTip": "Aula\\View\\FormLivroPesquisar.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAWwEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:21:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLivroPesquisar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\View\\FormLivroPesquisar.cs",
+              "RelativeDocumentMoniker": "Aula\\View\\FormLivroPesquisar.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\source\\repos\\Aula\\Aula\\View\\FormLivroPesquisar.cs [Projeto]",
+              "RelativeToolTip": "Aula\\View\\FormLivroPesquisar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:21:39.303Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
